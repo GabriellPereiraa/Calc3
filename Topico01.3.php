@@ -85,34 +85,42 @@ include('layout/header.php');
                 <li class="Texto">
                     <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i><strong> Diferenciar maiúscula de minúscula na classificação: </strong>se duas entradas são quase idênticas, uma com uma letra maiúscula no início, outra com uma letra minúscula na mesma posição;
                 </li>
+                <br>
 
                 <li class="Texto">
                     <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i><strong> O intervalo contém rótulos de coluna:</strong> se não for marcada, a primeira linha (ou coluna) também será ordenada. Por padrão fica pré marcado;
                 </li>
+                <br>
 
                 <li class="Texto">
                     <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i><strong> Incluir formatos:</strong> preservar o formato atual das células, por padrão também ficam selecionadas;
                 </li>
+                <br>
 
                 <li class="Texto">
                     <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i><strong> Ativar classificação natural:</strong> esta função é para ordenar corretamente uma sequência do tipo A1, A2, A3, …, A10, A11, …, A20, A21. Por padrão, a ordenação é feita verificando o primeiro caractere, começamos com A. Depois verificamos o segundo caractere e o terceiro, ficando assim: A1, A10, A11, A2, A20 etc. Com a flag ativa a ordenação fica mais natural desta forma: A1, A2, A3, …, A10, A11, …, A20, A21;
                 </li>
+                <br>
 
                 <li class="Texto">
                     <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i><strong> Copiar resultados da classificação para:</strong> permite copiar a seleção para outro local pré-definido. Para usar essa função, antes de classificar os dados, acesse a opção “Dados – Definir Intervalo”. Insira um nome para o intervalo, selecione o intervalo em si e depois clique na opção “Adicionar”. Ao voltar para o menu de classificação, será possível ver o nome do intervalo criado na relação abaixo da flag e ao clicar Ok os dados serão colados lá;
                 </li>
+                <br>
 
                 <li class="Texto">
                     <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i><strong> Ordem de classificação personalizada:</strong>  é a possibilidade de criar uma lista personalizada de ordenação, como os modelos personalizados que já existem de dia da semana e mês. É possível inserir mais modelos personalizados, acessando o menu <strong>LibreOffice – Preferência – LibreOffice Calc – Listas de Classificação</strong>, clique na opção “Nova” para inserir uma nova relação e depois em “Adicionar”;
                 </li>
+                <br>
 
                 <li class="Texto">
                     <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i><strong> Idioma:</strong> selecionar o idioma específico para ordenação;
                 </li>
+                <br>
 
                 <li class="Texto">
                     <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i><strong> Direção:</strong> Acreditamos ser este o mais diferente, a direção em como deverá ser feita a classificação. Normalmente, classificamos de cima para baixo, essa é a opção padrão, mas também pode ser feito da esquerda para direita.
                 </li>
+                <br>
 
             </ul>
 
