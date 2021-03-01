@@ -55,7 +55,7 @@ include('layout/header.php');
                     Quer saber mais sobre? 
                 </p>
                 <p class="CuriosidadeTexto">
-                    Clique em <a href="https://www.youtube.com/embed/6F4XWKcQIk0">https:// www.youtube.com /embed/ 6F4XWKcQIk0</a> e assista ao vídeo sobre Divisão e Congelamento de Janelas.
+                    Clique em <a href="https://www.youtube.com/embed/6F4XWKcQIk0" target="_blank">https:// www.youtube.com /embed/ 6F4XWKcQIk0</a> e assista ao vídeo sobre Divisão e Congelamento de Janelas.
                 </p>
             </div>
             <hr>

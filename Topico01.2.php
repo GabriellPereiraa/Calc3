@@ -76,7 +76,7 @@ include('layout/header.php');
                     Quer aprender um pouco mais sobre como utilizar corretamente os filtros?
                 </p>
                 <p class="SaibaMaisTexto">
-                    Acesse: <a href="http://camilaoliveira.net/blog/2015/03/16/libreoffice-calc-filtro">http:// camilaoliveira.net /blog/2015/03/16/ libreoffice-calc-filtro</a>
+                    Acesse: <a href="http://camilaoliveira.net/blog/2015/03/16/libreoffice-calc-filtro" target="_blank">http:// camilaoliveira.net /blog/2015/03/16/ libreoffice-calc-filtro</a>
                 </p>
             </div>
             <hr>

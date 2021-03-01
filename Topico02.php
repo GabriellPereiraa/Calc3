@@ -346,7 +346,7 @@ include('layout/header.php');
             <div>
                 <p class="SaibaMaisTitulo"> Saiba Mais</p>
                 <p class="SaibaMaisTexto">
-                    Clique em <a href="https://www.youtube.com/watch?v=rPv9B3oEoNw">https:// www.youtube.com /watch?v= rPv9B3oEoNw</a> e aprenda um pouco mais sobre como configurar e utilizar, cada gráfico.
+                    Clique em <a href="https://www.youtube.com/watch?v=rPv9B3oEoNw" target="_blank">https://www.youtube .com/watch?v= rPv9B3oEoNw</a> e aprenda um pouco mais sobre como configurar e utilizar, cada gráfico.
                 </p>
             </div>
             <hr>
