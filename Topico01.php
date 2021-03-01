@@ -103,7 +103,7 @@ include('layout/header.php');
             </p>
 
             <p class="Texto">
-                Clique em <a href="https://www.youtube.com/embed/-E9C35Gbcj8">https://www.youtube.com /embed/-E9C35Gbcj8</a> e veja um vídeo explicativo - Aplicação de formatação condicional
+                Clique em <a href="https://www.youtube.com/embed/-E9C35Gbcj8">https:// www.youtube.com /embed/-E9C35Gbcj8</a> e veja um vídeo explicativo - Aplicação de formatação condicional
             </p>
             
             <br><br>
